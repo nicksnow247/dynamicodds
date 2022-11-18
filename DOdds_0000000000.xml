@@ -1,0 +1,4099 @@
+<?xml version="1.0" ?>
+<root>
+   <event>
+      <Event>
+         <meeting_id>1387113</meeting_id>
+         <event_id>1387113_01</event_id>
+         <m_code_4char>KEMP</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>13:35:00</start_time_vic>
+         <venue>Kempsey</venue>
+         <no>1</no>
+         <name>John McGee Memorial</name>
+         <status>OPEN</status>
+         <track_cond>SOFT</track_cond>
+         <track_rtg>7</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Italian Tune</name>
+               <jockey>Raymond Spokes</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Scatman</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Miles Ahead</name>
+               <jockey>Luke Rolls</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Trescha</name>
+               <jockey>Matthew Mcguren</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Yarrinup Flyer</name>
+               <jockey>Stephen Traecey</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>House Wins</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Red Intuition</name>
+               <jockey>Ms Madeline Owen</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>King Kikau</name>
+               <jockey>Liam Blanch</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Fenerbache</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Waiheke Island</name>
+               <jockey>Jon Grisedale</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Kilmarnock</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Blinkin Snazzy</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Waterside</name>
+               <jockey>Ms Olivia Pickering</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387113</meeting_id>
+         <event_id>1387113_02</event_id>
+         <m_code_4char>KEMP</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>14:10:00</start_time_vic>
+         <venue>Kempsey</venue>
+         <no>2</no>
+         <name>Mid Coast Cranes Mdn Plate</name>
+         <status>OPEN</status>
+         <track_cond>SOFT</track_cond>
+         <track_rtg>7</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Ausbred Trump</name>
+               <jockey>Ms Madeline Owen</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Dirty Or Dry</name>
+               <jockey>Kirk Matheson</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Jevington Will Do</name>
+               <jockey>Shane S Arnold</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Mr Turner</name>
+               <jockey>Danny Peisley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Elite Quality</name>
+               <jockey>Luke Rolls</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Filthy Rich</name>
+               <jockey>Ms Brooke Stower</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Limpida</name>
+               <jockey>Ms Amelia Denby</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Montana Princess</name>
+               <jockey>Ms Olivia Pickering</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Zelberg</name>
+               <jockey>Bailey Wheeler</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Beside Her</name>
+               <jockey>Raymond Spokes</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Sister Rock</name>
+               <jockey>Liam Blanch</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Three Penny Opera</name>
+               <jockey>Matthew Mcguren</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Act Of Royalty</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>14</no>
+               <name>Dreamawin</name>
+               <jockey>Jon Grisedale</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>15</no>
+               <name>Asmodeus</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>16</no>
+               <name>Gunner Bill</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387113</meeting_id>
+         <event_id>1387113_03</event_id>
+         <m_code_4char>KEMP</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>14:45:00</start_time_vic>
+         <venue>Kempsey</venue>
+         <no>3</no>
+         <name>Bruno's Pizza Cafe Mdn Hcp</name>
+         <status>OPEN</status>
+         <track_cond>SOFT</track_cond>
+         <track_rtg>7</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Imprinted</name>
+               <jockey>Raymond Spokes</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Rodeo Legend</name>
+               <jockey>Luke Rolls</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Seaczar</name>
+               <jockey>Danny Peisley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Pop Magic</name>
+               <jockey>Bailey Wheeler</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Nicconi Rain</name>
+               <jockey>Liam Blanch</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Gunner Bill</name>
+               <jockey>Ms Courtney Bellamy</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Asserting</name>
+               <jockey>Matthew Mcguren</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Bettyfromtheoffice</name>
+               <jockey>Ms Madeline Owen</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Hypertension</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Malted Missile</name>
+               <jockey>Ms Jodi Worley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Shades Of Frisco</name>
+               <jockey>Jon Grisedale</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Water Line</name>
+               <jockey>Ms Olivia Pickering</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Volcanic</name>
+               <jockey>Ms Casey Waddell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387113</meeting_id>
+         <event_id>1387113_04</event_id>
+         <m_code_4char>KEMP</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>15:20:00</start_time_vic>
+         <venue>Kempsey</venue>
+         <no>4</no>
+         <name>Crystalite Mdn Plate</name>
+         <status>OPEN</status>
+         <track_cond>SOFT</track_cond>
+         <track_rtg>7</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Direct Heat</name>
+               <jockey>Kirk Matheson</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Hector Sagoa</name>
+               <jockey>Bailey Wheeler</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Mikhail</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Cool Harry</name>
+               <jockey>Jon Grisedale</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Sneaky Truths</name>
+               <jockey>Ms Amelia Denby</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Spring Wellness</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Thunder Knob</name>
+               <jockey>Ms Courtney Bellamy</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Cheketa</name>
+               <jockey>Luke Rolls</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Markievicz</name>
+               <jockey>Raymond Spokes</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Stretching</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Lake Mac Lily</name>
+               <jockey>Ms Casey Waddell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Serenata</name>
+               <jockey>Matthew Mcguren</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Rublev</name>
+               <jockey>Ms Madeline Owen</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>14</no>
+               <name>Tabernaci</name>
+               <jockey>Shane S Arnold</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>15</no>
+               <name>I Want One</name>
+               <jockey>Bailey Wheeler</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>16</no>
+               <name>Pride Of Lomar</name>
+               <jockey>Liam Blanch</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>17</no>
+               <name>Glam Time</name>
+               <jockey>Ms Olivia Pickering</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387113</meeting_id>
+         <event_id>1387113_05</event_id>
+         <m_code_4char>KEMP</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>16:00:00</start_time_vic>
+         <venue>Kempsey</venue>
+         <no>5</no>
+         <name>Akubra Hats Hcp</name>
+         <status>OPEN</status>
+         <track_cond>SOFT</track_cond>
+         <track_rtg>7</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Hidden Hail</name>
+               <jockey>Luke Rolls</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Omar</name>
+               <jockey>Matthew Mcguren</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Patriot</name>
+               <jockey>Raymond Spokes</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>She's Choosie</name>
+               <jockey>Ms Courtney Bellamy</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>More Patasi</name>
+               <jockey>Kirk Matheson</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Profiler</name>
+               <jockey>Ms Amelia Denby</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Adamdeeant</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Ready To Chase</name>
+               <jockey>Jon Grisedale</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>She's Spicy</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Threepoint Missile</name>
+               <jockey>Bailey Wheeler</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387113</meeting_id>
+         <event_id>1387113_06</event_id>
+         <m_code_4char>KEMP</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>16:40:00</start_time_vic>
+         <venue>Kempsey</venue>
+         <no>6</no>
+         <name>Kempsey Macleay Rsl Hcp</name>
+         <status>OPEN</status>
+         <track_cond>SOFT</track_cond>
+         <track_rtg>7</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Askew</name>
+               <jockey>Matthew Mcguren</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Two Better</name>
+               <jockey>Ms Brooke Stower</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>No Respect</name>
+               <jockey>Stephen Traecey</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Sippin Season</name>
+               <jockey>Ms Amelia Denby</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Free Spin</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Little Prophet</name>
+               <jockey>Luke Rolls</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Stella Redente</name>
+               <jockey>Bailey Wheeler</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Shootforthestar</name>
+               <jockey>Raymond Spokes</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Timely Reward</name>
+               <jockey>Ms Olivia Pickering</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Arlizar</name>
+               <jockey>Kirk Matheson</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Haunting Spirit</name>
+               <jockey>Jon Grisedale</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Positive Factor</name>
+               <jockey>Ms Madeline Owen</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Persue</name>
+               <jockey>Ms Casey Waddell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>14</no>
+               <name>Friendly</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>15</no>
+               <name>Secret Lago</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387113</meeting_id>
+         <event_id>1387113_07</event_id>
+         <m_code_4char>KEMP</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>17:20:00</start_time_vic>
+         <venue>Kempsey</venue>
+         <no>7</no>
+         <name>The Bowlo- Kempsey</name>
+         <status>OPEN</status>
+         <track_cond>SOFT</track_cond>
+         <track_rtg>7</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Havieron</name>
+               <jockey>Jon Grisedale</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Jexerlent</name>
+               <jockey>Kirk Matheson</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Real Gent</name>
+               <jockey>Matthew Mcguren</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Invincible Faith</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Lord Jaysea</name>
+               <jockey>Ms Amelia Denby</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Vanbari</name>
+               <jockey>Bailey Wheeler</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Editors</name>
+               <jockey>Ms Brooke Stower</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Luz Long</name>
+               <jockey>Raymond Spokes</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Fight For Love</name>
+               <jockey>Luke Rolls</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Senatorial</name>
+               <jockey>Ms Madeline Owen</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Beyond Mars</name>
+               <jockey>Liam Blanch</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Mosh Vain</name>
+               <jockey>Ms Courtney Bellamy</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Rose Sauvage</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>14</no>
+               <name>Splash Of Lime</name>
+               <jockey>Ms Olivia Pickering</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387118</meeting_id>
+         <event_id>1387118_01</event_id>
+         <m_code_4char>BEAU</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>13:15:00</start_time_vic>
+         <venue>Newcastle</venue>
+         <no>1</no>
+         <name>Coastline Pools Mdn Plate</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>A Real Riot</name>
+               <jockey>Ms Mikayla Weir</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Booyeah</name>
+               <jockey>Lee Magorrian</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Buckin' Rippa</name>
+               <jockey>Mitchell Bell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>First Peoples</name>
+               <jockey>Ashley Morgan</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Superclaid</name>
+               <jockey>Ms Kacie Adams</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Ciao Bicky</name>
+               <jockey>Dylan Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Gunner Bill</name>
+               <jockey>Jackson Searle</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Hettinger</name>
+               <jockey>Aaron Bullock</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Le Bernadin</name>
+               <jockey>Ms Ellen Hennessy</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Nayziair</name>
+               <jockey>Darryl Mclellan</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Perfect Point</name>
+               <jockey>Serg Lisnyy</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Trumpster</name>
+               <jockey>Andrew Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Gemology</name>
+               <jockey>Chris O'brien</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>14</no>
+               <name>Mindreader</name>
+               <jockey>Ms Madi Derrick</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387118</meeting_id>
+         <event_id>1387118_02</event_id>
+         <m_code_4char>BEAU</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>13:50:00</start_time_vic>
+         <venue>Newcastle</venue>
+         <no>2</no>
+         <name>Hungerford Hill Wines Mdn</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Bay Of Kotor</name>
+               <jockey>Ms Nyssa Burrells</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Candy Kiss</name>
+               <jockey>Ms Kacie Adams</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Opaleyes</name>
+               <jockey>Aaron Bullock</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Silica Sand</name>
+               <jockey>Jeff Penza</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Deelosh</name>
+               <jockey>Andrew Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Noble Flame</name>
+               <jockey>Christian Reith</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Painite</name>
+               <jockey>Ms Louise Day</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Paradise Island</name>
+               <jockey>Dylan Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Spirit Of Chanel</name>
+               <jockey>Ms Ellen Hennessy</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Squiggles</name>
+               <jockey>Mitchell Bell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Suncraft</name>
+               <jockey>Jackson Searle</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Wirreka</name>
+               <jockey>Koby Jennings</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Girls Get Paid</name>
+               <jockey>Ms Madi Derrick</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>14</no>
+               <name>Honey Dew</name>
+               <jockey>Adrian Layt</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>15</no>
+               <name>Miss Julelinda</name>
+               <jockey>Ms Jenny Duggan</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>16</no>
+               <name>Wilderness Star</name>
+               <jockey>Brandon Griffiths</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>17</no>
+               <name>Bettyfromtheoffice</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387118</meeting_id>
+         <event_id>1387118_03</event_id>
+         <m_code_4char>BEAU</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>14:25:00</start_time_vic>
+         <venue>Newcastle</venue>
+         <no>3</no>
+         <name>Tab Mdn Hcp</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Inordinate Opinion</name>
+               <jockey>Ms Ellen Hennessy</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Perfection Man</name>
+               <jockey>Koby Jennings</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Windabull</name>
+               <jockey>Lee Magorrian</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Wealthofknowledge</name>
+               <jockey>Ashley Morgan</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Maureen's Legacy</name>
+               <jockey>Brandon Griffiths</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Imperial Wolf</name>
+               <jockey>Ms Jess Taylor</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Starstruck Barbie</name>
+               <jockey>Serg Lisnyy</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Oronoco</name>
+               <jockey>Grant Buckley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Solarosa</name>
+               <jockey>Ms Louise Day</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Rotation</name>
+               <jockey>Mitchell Bell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Pure Dream</name>
+               <jockey>Ms Madi Derrick</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Sasil Esroh</name>
+               <jockey>Ms Mikayla Weir</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>All At Sea</name>
+               <jockey>Jackson Searle</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>14</no>
+               <name>Sea Boss</name>
+               <jockey>Serg Lisnyy</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387118</meeting_id>
+         <event_id>1387118_04</event_id>
+         <m_code_4char>BEAU</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>15:00:00</start_time_vic>
+         <venue>Newcastle</venue>
+         <no>4</no>
+         <name>Oas Technology Mdn Hcp</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Sacred Delago</name>
+               <jockey>Ms Alysha Collett</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Loch Gorman</name>
+               <jockey>Koby Jennings</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>The Percentage</name>
+               <jockey>Lee Magorrian</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Air Of Alsace</name>
+               <jockey>Ms Jess Taylor</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Brave Boy</name>
+               <jockey>Mitchell Bell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Den Moss</name>
+               <jockey>Brandon Griffiths</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Spellcheck</name>
+               <jockey>Reece Jones</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Mirror Queen</name>
+               <jockey>Blake Spriggs</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Miss Calculation</name>
+               <jockey>Andrew Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Star Impact</name>
+               <jockey>Dylan Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Rothrock</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Cunning Kitty</name>
+               <jockey>Matthew Palmer</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Asserting</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>14</no>
+               <name>Airzone</name>
+               <jockey>Ms Nyssa Burrells</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>15</no>
+               <name>Yamba's Star</name>
+               <jockey>Ashley Morgan</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387118</meeting_id>
+         <event_id>1387118_05</event_id>
+         <m_code_4char>BEAU</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>15:40:00</start_time_vic>
+         <venue>Newcastle</venue>
+         <no>5</no>
+         <name>Boxing Day Races</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Endless River</name>
+               <jockey>Jake Barrett</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Cool Missile</name>
+               <jockey>Brandon Griffiths</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Lincoln Park</name>
+               <jockey>Ms Mikayla Weir</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>A Million Dreams</name>
+               <jockey>Jackson Searle</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Cosmic Reign</name>
+               <jockey>Benjamin Osmond</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Jet Pack</name>
+               <jockey>Ashley Morgan</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Supreme Diva</name>
+               <jockey>Grant Buckley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Flying Pretty</name>
+               <jockey>Dylan Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Pipe Dreams</name>
+               <jockey>Ms Amy Mclucas</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Flash Palace</name>
+               <jockey>Ms Georgina Mcdonnell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Spanish Missile</name>
+               <jockey>Aaron Bullock</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Just Cosmos</name>
+               <jockey>Lee Magorrian</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Blazing Beau</name>
+               <jockey>Ms Jess Taylor</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387118</meeting_id>
+         <event_id>1387118_06</event_id>
+         <m_code_4char>BEAU</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>16:20:00</start_time_vic>
+         <venue>Newcastle</venue>
+         <no>6</no>
+         <name>The Choisir</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Total Recall</name>
+               <jockey>Jackson Searle</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Two Up</name>
+               <jockey>Jackson Searle</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Absolute Trust</name>
+               <jockey>Grant Buckley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Akasawa</name>
+               <jockey>Aaron Bullock</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Baileys</name>
+               <jockey>Ms Amy Mclucas</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Manabar</name>
+               <jockey>Jeff Penza</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Mo The Great</name>
+               <jockey>Jake Barrett</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Land Of Valens</name>
+               <jockey>Ms Alysha Collett</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Aerobatic Warrior</name>
+               <jockey>Koby Jennings</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Weekend Affair</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Beat That</name>
+               <jockey>Ashley Morgan</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Sapphires Son</name>
+               <jockey>Mitchell Bell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Vega De Lago</name>
+               <jockey>Adrian Layt</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387118</meeting_id>
+         <event_id>1387118_07</event_id>
+         <m_code_4char>BEAU</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>17:00:00</start_time_vic>
+         <venue>Newcastle</venue>
+         <no>7</no>
+         <name>Hunter Valley Premium Meats-C1</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Mystic Gem</name>
+               <jockey>Darryl Mclellan</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Chalkley</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Zachariah</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Tears Of Effort</name>
+               <jockey>Lee Magorrian</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Contentedly</name>
+               <jockey>Ms Alysha Collett</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Media Man</name>
+               <jockey>Ms Madi Derrick</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Spellcatcher</name>
+               <jockey>Christian Reith</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Penopera</name>
+               <jockey>Ms Jess Taylor</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Dethroned</name>
+               <jockey>Brodie Loy</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Shalstar</name>
+               <jockey>Aaron Bullock</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Rocstar Boy</name>
+               <jockey>Andrew Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Euphrates Dream</name>
+               <jockey>Dylan Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Zouly</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>14</no>
+               <name>Grey Enuff</name>
+               <jockey>Dylan Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>15</no>
+               <name>Cross Step</name>
+               <jockey>Mitchell Bell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>16</no>
+               <name>Mandirigma</name>
+               <jockey>Jeff Penza</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>17</no>
+               <name>Tariff Trump</name>
+               <jockey>Adrian Layt</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387118</meeting_id>
+         <event_id>1387118_08</event_id>
+         <m_code_4char>BEAU</m_code_4char>
+         <state>NSW</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>17:40:00</start_time_vic>
+         <venue>Newcastle</venue>
+         <no>8</no>
+         <name>Jennings Print</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Manangatang</name>
+               <jockey>Darryl Mclellan</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>The Night Train</name>
+               <jockey>Benjamin Osmond</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Two Ducks Artie</name>
+               <jockey>Christian Reith</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Pacific Rim</name>
+               <jockey>Ms Amy Mclucas</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Full Press</name>
+               <jockey>Lee Magorrian</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Awesome Choice</name>
+               <jockey>Andrew Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Princess Zeddy</name>
+               <jockey>Ms Alysha Collett</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Firefly Poppy</name>
+               <jockey>Ashley Morgan</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Dancing Rachel</name>
+               <jockey>Grant Buckley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Gidee Up Gal</name>
+               <jockey>Jackson Searle</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Dawnburst</name>
+               <jockey>Ms Madi Derrick</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Dawntillarvi</name>
+               <jockey>Dylan Gibbons</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Miss Twenty Twenty</name>
+               <jockey>Mitchell Bell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>14</no>
+               <name>Stormy Pluck</name>
+               <jockey>Ms Louise Day</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>15</no>
+               <name>Distinctive Glory</name>
+               <jockey>Jackson Searle</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>16</no>
+               <name>Clay Pan Boogie</name>
+               <jockey>Aaron Bullock</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>17</no>
+               <name>Wine Time</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>18</no>
+               <name>Essoess</name>
+               <jockey>Koby Jennings</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387221</meeting_id>
+         <event_id>1387221_01</event_id>
+         <m_code_4char>ROCK</m_code_4char>
+         <state>QLD</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>13:23:00</start_time_vic>
+         <venue>Rockhampton</venue>
+         <no>1</no>
+         <name>Ramsay Pharmacy Hcp</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Battledance</name>
+               <jockey>Nathan Day</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Bonaugura</name>
+               <jockey>Brad Pengelly</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Princess Marian</name>
+               <jockey>Mrs Hannah Richardson</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Sweet Way's</name>
+               <jockey>Justin Stanley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Bright And Ready</name>
+               <jockey>Chris Whiteley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387221</meeting_id>
+         <event_id>1387221_02</event_id>
+         <m_code_4char>ROCK</m_code_4char>
+         <state>QLD</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>13:58:00</start_time_vic>
+         <venue>Rockhampton</venue>
+         <no>2</no>
+         <name>Rjc Membership 2022 Hcp</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Jungle Beat</name>
+               <jockey>Chris Whiteley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Whoshotthemagician</name>
+               <jockey>Marnu Potgieter</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Magnetic Drive</name>
+               <jockey>Justin Stanley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Montana Night</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Still Feeling It</name>
+               <jockey>Les Tilley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Sundara</name>
+               <jockey>Carl Spry</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Shesaysthanks</name>
+               <jockey>Adam Sewell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387221</meeting_id>
+         <event_id>1387221_03</event_id>
+         <m_code_4char>ROCK</m_code_4char>
+         <state>QLD</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>14:33:00</start_time_vic>
+         <venue>Rockhampton</venue>
+         <no>3</no>
+         <name>Become A Club 150 Member Mdn</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Whoa Lola</name>
+               <jockey>Ms Tessa Townsend</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Military Force</name>
+               <jockey>Ms Alex Patis</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Albertessa</name>
+               <jockey>Marnu Potgieter</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Golden Outback</name>
+               <jockey>Les Tilley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Jink And Jive</name>
+               <jockey>Ric Mcmahon</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Infinite Joy</name>
+               <jockey>Mrs Hannah Richardson</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Bay's Spirit</name>
+               <jockey>Ms Cecily Eaton</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Taken By Theft</name>
+               <jockey>Adam Spinks</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Yufcalledcharlie</name>
+               <jockey>Chris Whiteley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Informer</name>
+               <jockey>Adam Sewell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>She Just Said It</name>
+               <jockey>Nathan Day</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387221</meeting_id>
+         <event_id>1387221_04</event_id>
+         <m_code_4char>ROCK</m_code_4char>
+         <state>QLD</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>15:08:00</start_time_vic>
+         <venue>Rockhampton</venue>
+         <no>4</no>
+         <name>Great Northern</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Bernie's Tiger</name>
+               <jockey>Ms Emma Bell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Hi Harry</name>
+               <jockey>Paul Hamblin</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Gypsy Biker</name>
+               <jockey>Chris Whiteley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Cavellton</name>
+               <jockey>Carl Spry</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Octavian</name>
+               <jockey>Brad Pengelly</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Sizzlepel</name>
+               <jockey>Ms Alex Patis</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Echo Point</name>
+               <jockey>Ric Mcmahon</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Attique</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387221</meeting_id>
+         <event_id>1387221_05</event_id>
+         <m_code_4char>ROCK</m_code_4char>
+         <state>QLD</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>15:48:00</start_time_vic>
+         <venue>Rockhampton</venue>
+         <no>5</no>
+         <name>Butler Partners Hcp</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>I'm The Business</name>
+               <jockey>Adam Spinks</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Bluindi</name>
+               <jockey>Justin Stanley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Cubix</name>
+               <jockey>Carl Spry</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Starsonic</name>
+               <jockey>Marnu Potgieter</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Hilflager</name>
+               <jockey>Les Tilley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Kotabharu</name>
+               <jockey>Chris Whiteley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>New York World</name>
+               <jockey>Adam Sewell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Buster Moon</name>
+               <jockey>Ms Tessa Townsend</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Black Sunrise</name>
+               <jockey>Ms Cecily Eaton</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387221</meeting_id>
+         <event_id>1387221_06</event_id>
+         <m_code_4char>ROCK</m_code_4char>
+         <state>QLD</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>16:28:00</start_time_vic>
+         <venue>Rockhampton</venue>
+         <no>6</no>
+         <name>Capricorn Rewind Mm Ctry Qlfr</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Master Jamie</name>
+               <jockey>Ms Tessa Townsend</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Rhyme Nor Rhythm</name>
+               <jockey>Brad Pengelly</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Star Of O'reilly</name>
+               <jockey>Ric Mcmahon</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Raiden</name>
+               <jockey>Nathan Day</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Bogey Man</name>
+               <jockey>Adam Sewell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Jay Jay</name>
+               <jockey>Ms Cecily Eaton</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Radipole</name>
+               <jockey>Ms Alex Patis</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387221</meeting_id>
+         <event_id>1387221_07</event_id>
+         <m_code_4char>ROCK</m_code_4char>
+         <state>QLD</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>17:08:00</start_time_vic>
+         <venue>Rockhampton</venue>
+         <no>7</no>
+         <name>Fm Studios Plate</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Mystery Element</name>
+               <jockey>Ms Emma Bell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Kings County</name>
+               <jockey>Carl Spry</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Tru Blu Tango</name>
+               <jockey>Les Tilley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Ahooshu</name>
+               <jockey>Chris Whiteley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Captain Fox</name>
+               <jockey>Ms Alex Patis</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Mishani Rebel</name>
+               <jockey>Adam Sewell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Santorini Summer</name>
+               <jockey>Nathan Day</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Ornate</name>
+               <jockey>Ms Tessa Townsend</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Cardice</name>
+               <jockey>Mrs Hannah Richardson</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387221</meeting_id>
+         <event_id>1387221_08</event_id>
+         <m_code_4char>ROCK</m_code_4char>
+         <state>QLD</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>17:48:00</start_time_vic>
+         <venue>Rockhampton</venue>
+         <no>8</no>
+         <name>Racing Thursday Dec 30 Hcp-C1</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>My Boy Sam</name>
+               <jockey>Paul Hamblin</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Nor Force</name>
+               <jockey>Carl Spry</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Zarnado</name>
+               <jockey>Marnu Potgieter</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>The Crown</name>
+               <jockey>Les Tilley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Kasinova Kid</name>
+               <jockey>Brad Pengelly</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>Manifica</name>
+               <jockey>Chris Whiteley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>Scoria Star</name>
+               <jockey>Justin Stanley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Listen Mate</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Our Ariana</name>
+               <jockey>Ms Alex Patis</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Chatilly</name>
+               <jockey>Ms Cecily Eaton</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Periodigal</name>
+               <jockey>Adam Sewell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>Cinderella Man</name>
+               <jockey>Ms Tessa Townsend</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Camarosa</name>
+               <jockey>Mrs Hannah Richardson</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>14</no>
+               <name>Duready</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>15</no>
+               <name>Navarre</name>
+               <jockey>Adam Spinks</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+      <Event>
+         <meeting_id>1387221</meeting_id>
+         <event_id>1387221_09</event_id>
+         <m_code_4char>ROCK</m_code_4char>
+         <state>QLD</state>
+         <state_op_status>True</state_op_status>
+         <date>2021-12-13</date>
+         <start_time_vic>18:25:00</start_time_vic>
+         <venue>Rockhampton</venue>
+         <no>9</no>
+         <name>Merry Christmas From Rjc</name>
+         <status>OPEN</status>
+         <track_cond>GOOD</track_cond>
+         <track_rtg>4</track_rtg>
+         <updated_ts>1639317600</updated_ts>
+         <runners>
+            <Runner>
+               <no>1</no>
+               <name>Countya Falls</name>
+               <jockey>Carl Spry</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>2</no>
+               <name>Poetic Final Say</name>
+               <jockey>Ric Mcmahon</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>3</no>
+               <name>Lastofthe Mohicans</name>
+               <jockey>Brad Pengelly</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>4</no>
+               <name>Helluva Hoffa</name>
+               <jockey>Marnu Potgieter</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>5</no>
+               <name>Master Richard</name>
+               <jockey>Adam Sewell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>6</no>
+               <name>God's Penny</name>
+               <jockey>Les Tilley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>7</no>
+               <name>I Am Clever</name>
+               <jockey>Chris Whiteley</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>8</no>
+               <name>Dukatti</name>
+               <jockey>Unknown</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>True</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>9</no>
+               <name>Bonville</name>
+               <jockey>Ms Cecily Eaton</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>10</no>
+               <name>Corporal</name>
+               <jockey>Ms Alex Patis</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>11</no>
+               <name>Commander's Watch</name>
+               <jockey>Adam Spinks</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>12</no>
+               <name>She's Our Empress</name>
+               <jockey>Ms Emma Bell</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+            <Runner>
+               <no>13</no>
+               <name>Aussie Tycoon</name>
+               <jockey>Ms Tessa Townsend</jockey>
+               <jockey_changed>False</jockey_changed>
+               <scr>False</scr>
+               <late_scr>False</late_scr>
+               <price_open>0</price_open>
+               <price>0</price>
+               <wsp_count>0</wsp_count>
+               <updated_ts/>
+            </Runner>
+         </runners>
+         <op_mkt_pct>0</op_mkt_pct>
+      </Event>
+   </event>
+   <feed_version>1.16</feed_version>
+   <server_ts>1639317600</server_ts>
+</root>
